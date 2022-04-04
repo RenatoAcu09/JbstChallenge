@@ -1,5 +1,5 @@
 # Jobsity
-.Net Challenge
+# .Net Challenge
 ● Allow registered users to log in and talk with other users in a chatroom.
 ● Allow users to post messages as commands into the chatroom with the following format
 /stock=stock_code
@@ -13,13 +13,13 @@ the bot.
 ● Have the chat messages ordered by their timestamps and show only the last 50
 messages.
 ● Unit test the functionality you prefer.
-Bonus (Optional)
+# Bonus (Optional)
 ● Have more than one chatroom.
 ● Use .NET identity for users authentication
 ● Handle messages that are not understood or any exceptions raised within the bot.
 ● Build an installer.
 
-Tasks Completed:
+# Tasks Completed:
 The chatbox and service have to run at the same time
 ● chatbox.
 ● user commands.
@@ -30,7 +30,11 @@ The chatbox and service have to run at the same time
 ● .Net identity.
 ● exceptions bot.
 
+# Installation
+This guide is for setting up development instances.
 
+Add-migration Initial Migrate
+update-database
 
 
 
