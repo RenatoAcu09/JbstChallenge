@@ -27,7 +27,7 @@ exceptions bot.
 This guide is for setting up development instances.
 Visual Studio 2019 net core 5
 
-command
+command:  
 update-database
 
 
